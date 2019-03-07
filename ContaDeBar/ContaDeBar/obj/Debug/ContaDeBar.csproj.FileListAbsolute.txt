@@ -1,0 +1,20 @@
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\bin\Debug\ContaDeBar.exe.config
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\bin\Debug\ContaDeBar.exe
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\bin\Debug\ContaDeBar.pdb
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.csprojAssemblyReference.cache
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.Properties.Resources.resources
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.csproj.GenerateResource.cache
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.exe
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.pdb
+C:\Users\guilh\source\repos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.ContaDeBar.resources
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\bin\Debug\ContaDeBar.exe.config
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\bin\Debug\ContaDeBar.exe
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\bin\Debug\ContaDeBar.pdb
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.ContaDeBar.resources
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.Properties.Resources.resources
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.csproj.GenerateResource.cache
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.exe
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ContaDeBar\ContaDeBar\obj\Debug\ContaDeBar.pdb
